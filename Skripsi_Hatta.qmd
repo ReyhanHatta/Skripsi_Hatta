@@ -11,11 +11,11 @@ published: "20 May 2026"
 
 # Authors
 author:
-  - name: "First Author"
+  - name: "Reyhan Muhammad Hatta"
     orcid: "0000-0000-0000-0000"
     affiliations:
-      - name: "Institution-1, City, Country"
-    email: "correspondence@email.domain"
+      - name: "Universitas Indonesia, Jakarta, Indonesia"
+    email: "hattareyhan08@gmail.com"
     corresponding: true
   - name: "Second Author"
     orcid: "0000-0000-0000-0000"
@@ -64,6 +64,9 @@ Use this template with Quarto markdown (qmd). For more information on Quarto, vi
 ## Title
 
 The title should be in Title Case. Keep it concise and informative, ideally within 12 words. Avoid abbreviations in the title unless they are widely recognized.
+
+## Pembukaan 
+"Pada 22 Mei 2013, Gubernur Bank Sentral Amerika Serikat, the Federal Reserve, Ben Bernanke, mengumumkan bahwa Amerika Serikat akan mengurangi pembelian obligasi mereka setelah 5 tahun melaksanakan quantitative easing sejak krisis keuangan global pada tahun 2008. Kebijakan the Fed kala itu, yang disebut sebagai tapering, mengakibatkan terjadinya capital outflow dari negara-negara berkembang ke Amerika Serikat. Nilai tukar mengalami pelemahan yang signifikan, diikuti dengan jatuhnya pasar saham dan obligasi di negara-negara tersebut, sebuah situasi yang dikenal sebagai Taper Tantrum. Dari seluruh negara berkembang, Indonesia bersama dengan Turki, Brasil, India, dan Afrika Selatan menjadi negara yang disebut Morgan Stanley sebagai “The Fragile Five”, yakni negara yang terkena imbas Taper Tantrum paling parah relatif terhadap negara lain. Untuk menahan depresiasi rupiah dan melonjaknya yield di pasar obligasi, Bank Indonesia terpaksa meningkatkan suku bunga sebesar 175 basis poin. Situasi ini mengekspos permasalahan struktural di dalam perekonomian Indonesia, di mana kita terlalu sensitif terhadap shock yang terjadi akibat kebijakan moneter Amerika Serikat serta apresiasi dolar AS (Basri, 2016).""
 
 ## References
 
